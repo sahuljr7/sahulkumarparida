@@ -1,0 +1,198 @@
+{
+  "main": {
+    "name": "Sahul Kumar Parida",
+    "occupation": "Founder of notSoDev",
+    "description": "Eat, sleep, code and repeat",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Sahul! I'm a full stack web developer👨‍💻 crazy about tech🚀. I'm also a YouTuber ▶️, Competitive Gamer 🎮 and Passionate Coder ‍💻. I'm interested in Blockchain technology and Web Development🌐. I always like to learn 📖 new things and build great projects🤖. I love to create simple yet beautiful websites with great user experience.  I believe everything is an Art 🎨 when you put your consciousness in it. I find the 😃 idea of creating value for people and impacting the world through my work gratifying.",
+    "contactmessage": "Get in touch with me to be a part of the notSoDev Community!",
+    "email": "sahulkumarparida@gmail.com",
+    "phone": "+91 7439730856",
+    "address": {
+      "street": "32/7, Sarat Chandra Road, Haridevpur,",
+      "city": "Kolkata",
+      "state": "700008",
+      "zip": "West Bengal"
+    },
+    "website": "http://sahulnotsodev.vercel.app/",
+    "resumedownload": "resume.pdf",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCMX0abw0WcXhkZVJHAtCuXA",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/sahul.parida/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://linkedin.com/in/sahulkumarparida",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://instagram.com/sahul_22_jr",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/sahuljr7",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "National Gems Higher Secondary School",
+        "degree": "Primary Schooling",
+        "graduated": "March 2006-April 2018",
+        "description": "Passed ISCE in the year 2018 with an aggregate score of 88.5%"
+      },
+      {
+        "school": "National Gems Higher Secondary School",
+        "degree": "Higher Secondary",
+        "graduated": "May 2018 - April 2020",
+        "description": "Passed ISC in the year 2020 with an aggregate score of 88%"
+      }
+    ],
+    "work": [
+      {
+        "company": "Chandigarh University",
+        "title": "Currently a student",
+        "years": "August 2020 - Present",
+        "description": "Pursing Computer Science Engineering."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Java",
+        "level": "85%"
+      },
+      {
+        "name": "Python",
+        "level": "85%"
+      },
+      {
+        "name": "Web Development - HTML, CSS",
+        "level": "85%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "70%"
+      },
+      {
+        "name": "ReactJS",
+        "level": "99%"
+      },
+      {
+        "name": "Git",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "My Ultimate Portfolio",
+        "category": "",
+        "image": "portfolio.jpg",
+        "url": "https://sahulnotsodev.vercel.app/"
+      },
+      {
+        "title": "The Weirdos NFT Website",
+        "category": "",
+        "image": "snapchat.jpg",
+        "url": "http://the-weirdos-sahulnotsodev.vercel.app/"
+      },
+      {
+        "title": "Three.js Website",
+        "category": "",
+        "image": "5.jpg",
+        "url": "http://threejs-sahulnotsodevv.vercel.app/"
+      },
+      {
+        "title": "Three.js Craftzdog",
+        "category": "",
+        "image": "6.jpg",
+        "url": "https://three-js-craftzdog-notsodev.vercel.app/"
+      },
+      {
+        "title": "NotSoOpGamer Gaming Website",
+        "category": "",
+        "image": "7.jpg",
+        "url": "http://gaming-website-not-so-op-gamer.vercel.app/"
+      },
+      {
+        "title": "The Anime Database",
+        "category": "",
+        "image": "9.jpg",
+        "url": "http://the-anime-database-notsodevv.vercel.app/"
+      },
+      {
+        "title": "3-D Earth",
+        "category": "",
+        "image": "10.jpg",
+        "url": "http://3d-earth-notsodevv.vercel.app/"
+      },
+      {
+        "title": "tMovies Website",
+        "category": "",
+        "image": "8.jpg",
+        "url": "https://t-movies-sahuljr7.vercel.app/"
+      },
+      {
+        "title": "Tesla Clone",
+        "category": "",
+        "image": "gmail.jpg",
+        "url": "https://tesla-clone-sahulnotsodevv.vercel.app/"
+      },
+      {
+        "title": "Starbucks Clone",
+        "category": "",
+        "image": "1.jpg",
+        "url": "https://starbucks-clone-2de68.web.app/"
+      },
+      {
+        "title": "Gmail Clone",
+        "category": "",
+        "image": "2.jpg",
+        "url": "https://clone-5e46b.web.app/"
+      },
+      {
+        "title": "Google Clone",
+        "category": "",
+        "image": "3.jpg",
+        "url": "http://googleclone-sahulnotsodevv.vercel.app/"
+      },
+      {
+        "title": "Snapchat Clone",
+        "category": "",
+        "image": "4.jpg",
+        "url": "https://snapchat-clone-yt-c12f4.web.app/"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "",
+        "image": "linkedin.jpg",
+        "url": "https://netflix-old-version-sahuljr7.vercel.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "In our personal and professional lives, we are constantly hit with one adversity after the other, most of which we have no control over. But the four things we have total control over is how we react, how we adapt, how we breathe, and how we take action.",
+        "user": "Diamond Dallas Page"
+      },
+      {
+        "text": "Website without visitors is like a ship lost in the horizon.",
+        "user": "Dr. Christopher Dayagdag"
+      }
+    ]
+  }
+}
